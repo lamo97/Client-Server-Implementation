@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/glamo/CLionProjects/TCP Portable Client (Calculator)/clientHeader.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+ctype.h
+-
+winsock.h
+-
+sys/types.h
+-
+sys/socket.h
+-
+netinet/in.h
+-
+netdb.h
+-
+
+C:/Users/glamo/CLionProjects/TCP Portable Client (Calculator)/clientUtilities.h
+clientHeader.h
+C:/Users/glamo/CLionProjects/TCP Portable Client (Calculator)/clientHeader.h
+
+C:/Users/glamo/CLionProjects/TCP Portable Client (Calculator)/main.c
+clientHeader.h
+C:/Users/glamo/CLionProjects/TCP Portable Client (Calculator)/clientHeader.h
+clientUtilities.h
+C:/Users/glamo/CLionProjects/TCP Portable Client (Calculator)/clientUtilities.h
+

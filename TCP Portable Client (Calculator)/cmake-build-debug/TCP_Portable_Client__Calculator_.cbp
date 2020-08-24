@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="TCP_Portable_Client__Calculator_"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/glamo/CLionProjects/TCP Portable Client (Calculator)/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/glamo/CLionProjects/TCP Portable Client (Calculator)/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/glamo/CLionProjects/TCP Portable Client (Calculator)/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/glamo/CLionProjects/TCP Portable Client (Calculator)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/glamo/CLionProjects/TCP Portable Client (Calculator)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="TCP_Portable_Client__Calculator_">
+				<Option output="C:/Users/glamo/CLionProjects/TCP Portable Client (Calculator)/cmake-build-debug/TCP_Portable_Client__Calculator_.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/glamo/CLionProjects/TCP Portable Client (Calculator)/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/glamo/CLionProjects/TCP Portable Client (Calculator)/cmake-build-debug/Makefile&quot;  VERBOSE=1 TCP_Portable_Client__Calculator_"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/glamo/CLionProjects/TCP Portable Client (Calculator)/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/glamo/CLionProjects/TCP Portable Client (Calculator)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/glamo/CLionProjects/TCP Portable Client (Calculator)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="TCP_Portable_Client__Calculator_/fast">
+				<Option output="C:/Users/glamo/CLionProjects/TCP Portable Client (Calculator)/cmake-build-debug/TCP_Portable_Client__Calculator_.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/glamo/CLionProjects/TCP Portable Client (Calculator)/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/glamo/CLionProjects/TCP Portable Client (Calculator)/cmake-build-debug/Makefile&quot;  VERBOSE=1 TCP_Portable_Client__Calculator_/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/glamo/CLionProjects/TCP Portable Client (Calculator)/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/glamo/CLionProjects/TCP Portable Client (Calculator)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/glamo/CLionProjects/TCP Portable Client (Calculator)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/glamo/CLionProjects/TCP Portable Client (Calculator)/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/glamo/CLionProjects/TCP Portable Client (Calculator)/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/glamo/CLionProjects/TCP Portable Client (Calculator)/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/glamo/CLionProjects/TCP Portable Client (Calculator)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/glamo/CLionProjects/TCP Portable Client (Calculator)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/glamo/CLionProjects/TCP Portable Client (Calculator)/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/glamo/CLionProjects/TCP Portable Client (Calculator)/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/glamo/CLionProjects/TCP Portable Client (Calculator)/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/glamo/CLionProjects/TCP Portable Client (Calculator)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/glamo/CLionProjects/TCP Portable Client (Calculator)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/glamo/CLionProjects/TCP Portable Client (Calculator)/clientHeader.h">
+			<Option target="TCP_Portable_Client__Calculator_"/>
+		</Unit>
+		<Unit filename="C:/Users/glamo/CLionProjects/TCP Portable Client (Calculator)/clientUtilities.h">
+			<Option target="TCP_Portable_Client__Calculator_"/>
+		</Unit>
+		<Unit filename="C:/Users/glamo/CLionProjects/TCP Portable Client (Calculator)/main.c">
+			<Option target="TCP_Portable_Client__Calculator_"/>
+		</Unit>
+		<Unit filename="C:/Users/glamo/CLionProjects/TCP Portable Client (Calculator)/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
